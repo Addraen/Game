@@ -158,5 +158,6 @@ class Game:
         else:# Sinon, on fait l'inverse
             self.tour_joueur(1)
             
+            yoyoyoyoyoy
 game = Game()
 game.start()
